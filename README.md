@@ -20,3 +20,5 @@ ESP32 D13 D12 D14 D27 D26 D25 D33 D32  4x4key
 | 4| 5 | 6 | B(-) |  
 | 7| 8 | 9 | C(*) |  
 | *(.) | 0 | #(=) | D(/)|
+
+LCD 1602 I2c[python_lcd](https://github.com/dhylands/python_lcd)
