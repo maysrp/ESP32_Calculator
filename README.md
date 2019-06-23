@@ -5,11 +5,12 @@ LCD 1602(I2C)
 4x4 key
 
 ESP32|LCD1602
--|-|-
+|-|-|-|
 VIN|VCC
 GDN|GDN
 D5|SDA
 D18|SCL  
+
 
 ESP32|4x4 Key
 D13|x
